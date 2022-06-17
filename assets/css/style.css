@@ -89,3 +89,62 @@
     background-color: #4CAF50;
     color: white;
 }
+
+#signupbody, #signup {
+    height: 100%;
+    background: url('../images/jdr8.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#signupbody {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.signupform {
+    margin-top: 50px;
+    text-align: center; 
+}
+
+.signupinputs input {
+    display: block;
+    width: 350px;
+    height: 40px;
+    margin: 20px;
+    border:none;
+    font-size: 20px;
+    border-bottom: 1px solid;
+    background: white;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.signupinputs button {
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(68, 177, 32);
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+.signupinputs button:hover {
+    color: gray;
+}
+
+.signupform h2{
+    margin-bottom: 50px;
+}
+
+::placeholder {
+    color: black;
+    text-align: center;
+    color: rgb(186, 176, 176);
+    font-style: italic;
+    
+}
