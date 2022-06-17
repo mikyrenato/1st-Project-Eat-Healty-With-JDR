@@ -69,3 +69,23 @@
     background: url('../images/jdr9.PNG') no-repeat center;
     color: transparent;
 }
+
+.social {
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 3%;
+    color: #138d23;
+}
+
+ i:hover {
+    background-color: #4CAF50;
+    color: white;
+}
