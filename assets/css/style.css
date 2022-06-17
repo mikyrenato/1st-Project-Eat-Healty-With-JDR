@@ -63,3 +63,9 @@
     }
     
 }
+
+#mainfooter {
+    height: 220px;
+    background: url('../images/jdr9.PNG') no-repeat center;
+    color: transparent;
+}
