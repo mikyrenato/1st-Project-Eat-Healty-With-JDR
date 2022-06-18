@@ -111,17 +111,17 @@
 .signupinputs input {
     display: block;
     height: 40px;
-    margin: 20px;
+    width: 40%;
+    margin: 20px auto;
     font-size: 20px;
     border-bottom: 1px solid;
     background: white;
     border-radius: 25px;
-    text-align: center;
 }
 
 .signupinputs button {
     height: 40px;
-    width: 100px;
+    width: 40%;
     font-size: 20px;
     background-color: rgb(68, 177, 32);
     color: white;
@@ -136,6 +136,7 @@
 
 .signupform h2{
     margin-bottom: 50px;
+    font-size: 200%;
 }
 
 ::placeholder {
@@ -151,20 +152,8 @@
     color: #fff;
     background-color:rgba(60, 60, 60, 0.6);
     border-radius: 25px;
-    width: 15%;
     margin: auto;
-    width: 60%;
+    width: 50%;
     border: 3px solid #73AD21;
     padding: 10px;
-
-}
-
-#signuph1 {
-    top: 20px;
-    font-size: 250%;
-    background-color:rgba(60, 60, 60, 0.6);
-    color: white;
-    border-radius: 25px;
-    padding: 10px 10px 10px 10px;
-    width: inherit;
 }
