@@ -92,7 +92,7 @@
     color: white;
 }
 
-#signupbody, #signup, #thanksbody {
+#signupbody,#thanksbody {
     height: 100%;
     background: url('../images/jdr8.jpg');  
     background-repeat: no-repeat;
@@ -195,4 +195,17 @@ background-color: #0a8d40;
 
 .social {
 text-align: center;
+}
+
+#socialthanks {
+    position: absolute;
+    right: 0;bottom:0;left:0;
+}
+
+.social {
+    margin-top: 30px;
+}
+
+#thanksbody {
+    height: 1200px;
 }
