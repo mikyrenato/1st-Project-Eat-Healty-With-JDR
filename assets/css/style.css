@@ -173,3 +173,26 @@
   border: #138d23 1px solid;
   padding: 60px 60px 60px 60px;
 }
+
+#pic img {
+    width: 100%;
+}
+
+#pic {
+margin-top: 50px;
+margin-left: 20px;
+margin-right: 20px;
+column-count: 2;
+}
+
+#video {
+margin-top: 20px;
+margin-left: 20px;
+border: 15px groove #0a8d40;
+margin-right: 20px;
+background-color: #0a8d40;
+}
+
+.social {
+text-align: center;
+}
