@@ -333,4 +333,8 @@ text-align: center;
         font-size: 70%;
         padding: 10px;
     }
+
+    #thanksh1, #thanksp {
+        font-size: 100%;
+    }
 }
