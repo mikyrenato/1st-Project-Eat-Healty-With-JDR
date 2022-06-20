@@ -231,6 +231,11 @@ text-align: center;
     font-size: 150%;
 }
 
+iframe {
+    width: 100%;
+    height: 800px;
+}
+
 @media only screen and (max-width: 1500px) {
     #mainsection {
         background-size: 1300px 600px;
