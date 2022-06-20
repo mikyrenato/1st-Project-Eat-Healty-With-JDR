@@ -284,4 +284,53 @@ text-align: center;
         background-size: 250px 200px;
         margin-top: 0px;
     }
+
+    #paragraph {
+        font-size: 100%;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    #mainheader {
+        height: 150px;
+    }
+    
+    #mainwelcome {
+        font-size: 80%;
+    }
+    
+    #mainmenu {
+        margin-top: 30px;
+        font-size: 30%;
+    }
+    
+    #mainmenu, #mainwelcome {
+        line-height: 15px;
+    }
+    
+    
+    #mainsection {
+        background-size: 250px 150px;
+        color: transparent;
+        height: 200px;
+    }
+
+    #mainfooter{
+        background-size: 230px 100px;
+        height: 100px;
+    }
+
+    .signupinputs input {
+    font-size: 30%;
+    }
+
+    #thankssection {
+        background-size: 150px 100px;
+        margin-top: 0px;
+    }
+
+    #paragraph {
+        font-size: 70%;
+        padding: 10px;
+    }
 }
