@@ -230,3 +230,34 @@ text-align: center;
     text-align: center;
     font-size: 150%;
 }
+
+@media only screen and (max-width: 1200px) {
+    #mainheader {
+        height: 150px;
+    }
+    
+    #mainwelcome {
+        font-size: 120%;
+    }
+    
+    #mainmenu {
+        margin-top: 30px;
+    }
+    
+    #mainmenu, #mainwelcome {
+        line-height: 15px;
+    }
+    
+    
+    #mainsection {
+    
+        background: url('../images/jdr7.png') no-repeat center center;
+        background-size: 500px 300px;
+        color: transparent;
+        padding-top: 20px;
+    }
+
+    #mainfooter{
+        background-size: 500px 200px;
+    }
+}
