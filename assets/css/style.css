@@ -212,20 +212,20 @@ text-align: center;
 
 #thankssection {
     background: url('../images/tick.png') no-repeat center; 
-    height: 480px;
+    height: 700px;
     margin-top: 40px;
 }
 
 #thanksh1 {
     margin-top: 150px;
-    color: #fff;
-    background-color:rgba(60, 60, 60, 0.6);
+    color: black;
+    background-color:whitesmoke;
     border-radius: 25px;
     margin: auto;
-    width: 35%;
+    width: 50%;
     border: 3px solid #73AD21;
     padding: 10px;
-    height: 700px;
+    height: 900px;
     text-align: center;
     font-size: 150%;
 }
