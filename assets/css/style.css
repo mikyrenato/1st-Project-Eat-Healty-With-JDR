@@ -199,7 +199,7 @@ text-align: center;
 
 #socialthanks {
     position: absolute;
-    right: 0;bottom:0;left:0;
+    right:0;bottom:0;left:0;
 }
 
 .social {
@@ -208,4 +208,16 @@ text-align: center;
 
 #thanksbody {
     height: 1200px;
+}
+
+#thankssection {
+    color: black;
+    background: url('../images/tick.png') no-repeat center; 
+    opacity:0.7;
+    border-radius: 25px;
+    margin: auto;
+    width: 40%;
+    border: 3px solid #73AD21;
+    text-align: center;
+    height: 490px;
 }
