@@ -231,6 +231,18 @@ text-align: center;
     font-size: 150%;
 }
 
+@media only screen and (max-width: 1500px) {
+    #mainsection {
+        background-size: 1300px 600px;
+        color: transparent;
+        padding-top: 20px;
+    }
+
+    #mainfooter{
+        background-size: 1000px 200px;
+    }
+}
+
 @media only screen and (max-width: 1200px) {
     #mainheader {
         height: 150px;
@@ -242,6 +254,7 @@ text-align: center;
     
     #mainmenu {
         margin-top: 30px;
+        font-size: 60%;
     }
     
     #mainmenu, #mainwelcome {
@@ -250,8 +263,6 @@ text-align: center;
     
     
     #mainsection {
-    
-        background: url('../images/jdr7.png') no-repeat center center;
         background-size: 500px 300px;
         color: transparent;
         padding-top: 20px;
@@ -259,5 +270,18 @@ text-align: center;
 
     #mainfooter{
         background-size: 500px 200px;
+    }
+
+    #video iframe {
+        height: 400px;
+    }
+
+    .signupinputs input {
+    font-size: 50%;
+    }
+
+    #thankssection {
+        background-size: 250px 200px;
+        margin-top: 0px;
     }
 }
