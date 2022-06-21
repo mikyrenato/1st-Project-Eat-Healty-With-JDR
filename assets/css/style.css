@@ -330,7 +330,8 @@ iframe {
     }
 
     .signupinputs input {
-    font-size: 30%;
+    font-size: 50%;
+    width: 80%;
     }
 
     #thankssection {
