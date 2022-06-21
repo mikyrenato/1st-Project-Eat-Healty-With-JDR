@@ -272,13 +272,13 @@ nav select {
     
     
     #mainsection {
-        background-size: 500px 300px;
+        background-size: 700px 300px;
         color: transparent;
         padding-top: 20px;
     }
 
     #mainfooter{
-        background-size: 500px 200px;
+        background-size: 700px 200px;
     }
 
     #video iframe {
@@ -319,13 +319,13 @@ nav select {
     
     
     #mainsection {
-        background-size: 250px 150px;
+        background-size: 350px 125px;
         color: transparent;
         height: 200px;
     }
 
     #mainfooter{
-        background-size: 230px 100px;
+        background-size: 350px 100px;
         height: 100px;
     }
 
