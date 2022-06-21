@@ -166,7 +166,7 @@
 }
 
 #paragraph{
-  width: 55%;
+  width: 65%;
   margin: auto; 
   font-family: Lato, sans-serif;
   font-weight: 300;
@@ -342,6 +342,7 @@ iframe {
     #paragraph {
         font-size: 70%;
         padding: 10px;
+        width: 85%;
     }
 
     #thanksh1, #thanksp {
