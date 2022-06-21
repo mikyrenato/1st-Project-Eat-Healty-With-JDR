@@ -417,4 +417,17 @@ iframe {
     display: block;
   }
 
+  #signupsection {
+    width: 85%;
+  }
+
+    #thanksh1 {
+    width: 85%;
+    height: 35%;
+  }
+
+  #thanksbody {
+    height: 100%;
+  }
+
 }
