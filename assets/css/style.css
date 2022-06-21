@@ -302,7 +302,7 @@ iframe {
 
 @media only screen and (max-width: 520px) {
     #mainheader {
-        height: 250px;
+        height: 200px;
     }
     
     #mainwelcome {
