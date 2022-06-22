@@ -2,7 +2,7 @@
 
 [Visit the website here](https://daisygunn.github.io/la-petite-traveller/)
 
-![](docs/images/amiresponsive_image.png)
+![](assets/images/Responsivness.PNG)
 
 Created to provide guidance and inspiration for people interested in backpacking; furthermore those specifically interested in visiting Sri Lanka as that is the 'recent trip' currently featured on this website. This website was made for educational purposes only.
 
