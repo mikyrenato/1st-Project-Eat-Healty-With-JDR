@@ -266,7 +266,7 @@ iframe {
     }
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1300px) {
     #mainheader {
         height: 150px;
     }
