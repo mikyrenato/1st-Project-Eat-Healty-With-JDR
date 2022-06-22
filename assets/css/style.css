@@ -267,6 +267,18 @@ iframe {
 }
 
 @media only screen and (max-width: 1300px) {
+
+    #mainsection {
+        background-size: 900px 400px;
+    }
+
+    #mainfooter{
+        background-size: 100% 200px;
+    }
+
+}
+
+@media only screen and (max-width: 920px) {
     #mainheader {
         height: 150px;
     }
@@ -289,10 +301,11 @@ iframe {
         background-size: 700px 300px;
         color: transparent;
         padding-top: 20px;
+        height: 400px;
     }
 
     #mainfooter{
-        background-size: 700px 200px;
+        background-size: 100% 200px;
     }
 
     #video iframe {
@@ -313,7 +326,20 @@ iframe {
     }
 }
 
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 720px) {
+
+    #mainsection {
+        background-size: 550px 220px;
+        height: 300px;
+    }
+
+    #mainfooter{
+        background-size: 500px 150px;
+    }
+
+}
+
+@media only screen and (max-width: 550px) {
     #mainheader {
         height: 200px;
     }
@@ -443,5 +469,19 @@ iframe {
   #thanksbody {
         height: 100%;
   }
+
+}
+
+@media only screen and (max-width: 550px) {
+
+    #mainsection {
+        background-size: 250px 100px;
+        height: 100px;
+    }
+
+    #mainfooter {
+        background-size: 200px 50px;
+        height: 70px;
+    }
 
 }
