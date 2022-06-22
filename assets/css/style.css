@@ -179,6 +179,19 @@
   padding: 60px 60px 60px 60px;
 }
 
+#paragraphhome{
+    width: 70%;
+    margin: auto; 
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color:rgb(19, 88, 19);
+    font-size: 170%;
+    margin-top: 50px;
+    border-radius: 25px 0 25px 0;
+    border: #138d23 1px solid;
+    padding: 60px 60px 60px 60px;
+  }
+
 #pic img {
     width: 100%;
 }
