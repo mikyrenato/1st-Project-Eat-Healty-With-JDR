@@ -1,6 +1,6 @@
 # EAT HEALTHY WITH JDR
 
-[Visit the website here]([https://mikyrenato.github.io/1st-Project-Eat-Healty-With-JDR/])
+[Visit the website here](https://mikyrenato.github.io/1st-Project-Eat-Healty-With-JDR/jdrhome)
 
 ![](assets/images/Responsivness.PNG)
 
