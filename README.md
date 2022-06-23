@@ -1,24 +1,23 @@
 # EAT HEALTHY WITH JDR
 
-[Visit the website here](https://daisygunn.github.io/la-petite-traveller/)
+[Visit the website here]([https://mikyrenato.github.io/1st-Project-Eat-Healty-With-JDR/])
 
 ![](assets/images/Responsivness.PNG)
 
-Created to provide guidance and inspiration for people interested in backpacking; furthermore those specifically interested in visiting Sri Lanka as that is the 'recent trip' currently featured on this website. This website was made for educational purposes only.
+I created this page to give the reader a better understanding about my company, Jordans, Dorset and Ryvita and to promote a healthier life style, full in fibre.
 
 This website is made up of the following sections:
 
-1. Home/Introduction
-2. Travel Tips 101
-3. My Last Trip - a Guide for the most recent trip the author has taken, in this case, Sri Lanka
-4. Form to sign up to La Petite Traveller's newsletter
+1. Home page
+2. Explore page
+3. Sign up page to the JDR Newsletter
+4. Thank you for signing up page
 
 The business goals for this website are:
 
-1. To advise users on how to backpack and travel around the world on a budget
-2. To inspire users to visit countries that have been reviewed
-3. Earn commission from links provided (hotels, restaurants, products)
-4. Build a database of users to send future information & content to, thus furthering the reach of the author.
+1. To advise users on how to eat healthy
+2. To inspire users by giving them cooking tips and ideas
+3. To promote my company
 
 The user goals of this website are:
 1. As a first-time visitor, I want to easily find useful information & tips for travelling/backpacking.
