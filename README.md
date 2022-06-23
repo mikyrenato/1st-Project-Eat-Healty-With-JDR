@@ -41,19 +41,14 @@ What these users would be looking for:
 
 This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with travel guides.
 
-Due to the age group of the users, it is assumed that most users will be viewing the site on their mobile phones and therefore creating something responsive is integral to the design.
+It is assumed that most users will be viewing the site on their mobile phones and therefore creating something responsive is integral to the design.
 
 ### **Scope**
 
 In order to achieve the desired user & business goals, the following features will be included in this release:
 
 - Header and menu bar, to navigate to various sections of the page
-- Information section full of tips for backpacking
-- Downloadable essential packing checklist 
-- Ratings of a recent trip to Sri Lanka
-- Interactive map of the route taken
-- Information, recommendations and advice for travelling Sri Lanka
-- Gallery of images from the Sri Lanka trip
+- Gallery of images with some of our delicious products
 - Newsletter sign up form
 - Links to affiliate social media pages
 
