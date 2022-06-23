@@ -54,7 +54,7 @@ In order to achieve the desired user & business goals, the following features wi
 
 ### **Structure** 
 
-This is a single-page website to allow for desired flow; the navigation bar at the top allows for users to easily move to whatever section of the site they are interested in or they can simply scroll through the information as it is displayed. I chose the following order for the information 'Home > Travel Tips 101 > My Last Trip > Keep in Touch', as I felt this would allow the information to be digested in the best way. The text blocks are broken up with images to ensure interest is kept and there is no information overload at any point. There is a concise review of Sri Lanka before the more in-detail guide as I wanted users to be able to find these key bits of information quickly. Finally, there is a simple sign up form for users to sign up to the La Petite Traveller's newsletter.
+This is a four pages website. First page is the home page, which will give the users enough information about what our business is doing; the navigation bar at the top allows for users to easily move to whatever page of the site they are interested in or they can scroll down where our social links can be found. I chose the following order for the information 'Home > Explore JDR Products > Sign up to the JDR Newsletter, whcih after submitting will send you to a thank you page', as I felt this would allow the information to be digested in the best way. The second page is the "Explore JDR Products", which will contain one of our comercial video, pictures with some delicious ideas of toppings and recipes followed by the social media links at the bottom. Finally, there is a simple sign up form for users to sign up to the JDR newsletter.
 
 ### **Skeleton**
 
