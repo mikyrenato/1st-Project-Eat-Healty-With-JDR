@@ -20,12 +20,8 @@ The business goals for this website are:
 3. To promote my company
 
 The user goals of this website are:
-1. As a first-time visitor, I want to easily find useful information & tips for travelling/backpacking.
-2. As a first-time visitor, I want to find inspiration for planning future trips.
-3. As a first-time visitor, I want to find a helpful guide on Sri Lanka, with possible routes to take and options available.
-4. As a recurring or first-time visitor, I want to find recommendations from a trusted source for restaurants/hotels/products.
-5. As a recurring or first-time visitor, to easily find affiliate pages for the author, with even more inspiration available.
-6. As a first-time user, I want to be able to sign up to directly receive content via a newsletter.
+1. As a first-time visitor, I want to easily find useful information & tips about oour food and recipes.
+2. As a first-time user, I want to be able to sign up to directly receive content via a newsletter.
 
 ## UX
 ---
@@ -33,17 +29,15 @@ The user goals of this website are:
 
 Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
 
-La Petite Traveller's target users are:
-* Aged 18-30
-* Past/future backpackers
-* People interested in travelling on a budget
-* Have an interest in visiting Sri Lanka
+JDR's target users are:
+* Aged 30+
+* People interested in living a heathier lifestyle
+* People who already living a healthy lifestyle
 
 What these users would be looking for:
 * Clear, concise, easy-to-find information
-* Beautiful photos that provide inspiration and make the destinations look desirable
-* Helpful guidance on routes available
-* Recommendations for where to eat/stay
+* Beautiful photos that provide inspiration and make the food look delicious
+* Recommendations for what to eat
 
 This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with travel guides.
 
