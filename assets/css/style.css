@@ -75,6 +75,7 @@
     height: 220px;
     background: url('../images/jdr9.PNG') no-repeat center;
     color: transparent;
+    margin-bottom: 50px;
 }
 
 .social {
@@ -174,9 +175,8 @@
   color:rgb(19, 88, 19);
   font-size: 170%;
   margin-top: 50px;
-  border-radius: 25px 0 25px 0;
-  border: #138d23 1px solid;
-  padding: 60px 60px 60px 60px;
+  font-style: italic;
+  
 }
 
 #paragraphhome{
@@ -187,9 +187,7 @@
     color:rgb(19, 88, 19);
     font-size: 170%;
     margin-top: 50px;
-    border-radius: 25px 0 25px 0;
-    border: #138d23 1px solid;
-    padding: 60px 60px 60px 60px;
+    font-style: italic;
   }
 
 #pic img {
@@ -209,6 +207,7 @@ margin-left: 20px;
 border: 15px groove #0a8d40;
 margin-right: 20px;
 background-color: #0a8d40;
+border-radius: 25px 0 25px 0;
 }
 
 .social {
