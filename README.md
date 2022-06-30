@@ -39,7 +39,7 @@ What these users would be looking for:
 * Beautiful photos that provide inspiration and make the food look delicious
 * Recommendations for what to eat
 
-This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with travel guides.
+This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with this kind of websites.
 
 It is assumed that most users will be viewing the site on their mobile phones and therefore creating something responsive is integral to the design.
 
@@ -48,19 +48,15 @@ It is assumed that most users will be viewing the site on their mobile phones an
 In order to achieve the desired user & business goals, the following features will be included in this release:
 
 - Header and menu bar, to navigate to various sections of the page
-- Gallery of images with some of our delicious products
+- Gallery of images and videos with some of our delicious products
 - Newsletter sign up form
 - Links to affiliate social media pages
 
 ### **Structure** 
 
-This is a four pages website. First page is the home page, which will give the users enough information about what our business is doing; the navigation bar at the top allows for users to easily move to whatever page of the site they are interested in or they can scroll down where our social links can be found. I chose the following order for the information 'Home > Explore JDR Products > Sign up to the JDR Newsletter, whcih after submitting will send you to a thank you page', as I felt this would allow the information to be digested in the best way. The second page is the "Explore JDR Products", which will contain one of our comercial video, pictures with some delicious ideas of toppings and recipes followed by the social media links at the bottom. Finally, there is a simple sign up form for users to sign up to the JDR newsletter.
+This is a four pages website. First page is the home page, which will give the users enough information about what our business is doing; the navigation bar at the top allows for users to easily move to whatever page of the site they are interested in or they can scroll down where our social links can be found. I chose the following order for the information 'Home > Explore JDR Products > Sign up to the JDR Newsletter, whcih after submitting will send you to a thank you page', as I felt this would allow the information to be digested in the best way. The second page is the "Explore JDR Products", which will contain videos from all our three brands, pictures with some delicious ideas of toppings and recipes followed by the social media links at the bottom. Finally, there is a simple sign up form for users to sign up to the JDR newsletter.
 
 ### **Skeleton**
-
-[Wireframes](docs/wireframes_la_petite_traveller.pdf)
-
-Please note the actual website has changed slightly from these wireframes.
 
 Whilst building the website I felt that there were sections with too much information, for this reason, I opted to install the read more button on all devices and not just the mobile. This allows for user's to only read on if they would like the more detailed information; I felt giving the user this control would provide a positive user experience. 
 
