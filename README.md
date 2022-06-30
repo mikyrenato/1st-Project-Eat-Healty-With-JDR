@@ -58,15 +58,11 @@ This is a four pages website. First page is the home page, which will give the u
 
 ### **Skeleton**
 
-Whilst building the website I felt that there were sections with too much information, for this reason, I opted to install the read more button on all devices and not just the mobile. This allows for user's to only read on if they would like the more detailed information; I felt giving the user this control would provide a positive user experience. 
-
-I also decided to change my photo slideshow to a Fancybox gallery as I felt it looked cleaner and I preferred this method of interaction, it also allowed for better responsiveness and the images looked better on larger screens. 
-
-In addition to these changes I also decided to add an animated arrow between the heading for the newsletter sign up form and the form itself, I felt that this was an engaging element that would encourage users to keep looking down the page. 
+Whilst building the website, at first I added random pictures with all our branded products, later I realsied that it was not easy to understand what all our brand mean and what products they are offerning, than I decided to organise and have sections with videos followed by pictures for each brand and I believe it looks much better now and it makes more sense.
 
 ### **Surface**
 
-I chose a colour palette based around blues & greens as these colours remind me of the sea & being amongst nature; I want the users of this website to be transported to their memories of travelling/holiday's and believe these colours will help to do this. I paired these with a lighter off-white to allow for appropriate contrast. 
+I chose a colour palette based around green & white as these colours remind me of the nature and it's in line with our new motto: "Together we inspire better wellbeing by creating delicious foods from nature".
 
 I used Google fonts 'Cookie' and 'Raleway' across the entire website, I felt 'Cookie' was a fun text and stood out on the page but I also wanted something easier to read for the large blocks of texts which is why I chose 'Raleway' for the body text, example below:
 
