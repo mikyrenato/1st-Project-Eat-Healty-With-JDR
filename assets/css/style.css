@@ -378,14 +378,14 @@ hr {
     }
     
     #mainsection {
-        background-size: 350px 125px;
+        background-size: 430px 150px;
         color: transparent;
-        height: 200px;
+        height: 250px;
     }
 
     #mainfooter{
-        background-size: 350px 100px;
-        height: 100px;
+        background-size: 430px 130px;
+        height: 150px;
     }
 
     .signupinputs input {
@@ -492,16 +492,16 @@ hr {
 
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 450px) {
 
     #mainsection {
-        background-size: 250px 100px;
-        height: 100px;
+        background-size: 300px 130px;
+        height: 130px;
     }
 
     #mainfooter {
-        background-size: 200px 50px;
-        height: 70px;
+        background-size: 300px 100px;
+        height: 100px;
     }
 
 }
