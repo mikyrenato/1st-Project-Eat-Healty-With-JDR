@@ -166,5 +166,3 @@ The following websites/articles were used for research and guidance:
 ## Acknowledgements
 
 I would like to thank my course mentor Harry Dhillon for his support and guidance throughout the course of the project and my fellow student Bartosz Fraszczyk, my collegue Marcin Placek and my boss Marcin Dorozynski for their support & feedback.
-
----
