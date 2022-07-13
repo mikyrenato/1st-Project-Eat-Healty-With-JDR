@@ -58,39 +58,29 @@ This is a four pages website. First page is the home page, which will give the u
 
 ### **Skeleton**
 
-Whilst building the website, at first I added random pictures with all our branded products, later I realsied that it was not easy to understand what all our brand mean and what products they are offerning, than I decided to organise and have sections with videos followed by pictures for each brand and I believe it looks much better now and it makes more sense.
+Whilst building the website, at first I added random pictures with all our branded products, later I realsied that it was not easy to understand what all our brands mean and what products they are offerning, than I decided to organise and have sections with videos followed by pictures for each brand and I believe it looks much better now and it makes more sense.
 
 ### **Surface**
 
 I chose a colour palette based around green & white as these colours remind me of the nature and it's in line with our new motto: "Together we inspire better wellbeing by creating delicious foods from nature".
 
-I used Google fonts 'Cookie' and 'Raleway' across the entire website, I felt 'Cookie' was a fun text and stood out on the page but I also wanted something easier to read for the large blocks of texts which is why I chose 'Raleway' for the body text, example below:
-
-![](docs/images/font_selection.png)
-
 ---
 
 ## **Features**
 
-This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the page is divided into the four sections listed in the navbar. Where a colour background has been used it has a slightly transparent opacity and the text is off-white. All of the headings use the font Cookie and the body text is Raleway, this consistency has been used across the website to create a coherent design. 
+This is a fully responsive website that was designed for all devices like laptops, desktops, tablets and mobile phone. 
 
 ### *Navbar*
-The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and entices them to read further. 
+The navbar is placed on the middle of the header and it turns into a dropbox for smaller screen sizes
 
-### *About*
-This is where I introduce myself and the page and give a brief insight into why it was created, I have used an H2 element for the main heading, followed by an H3 tag line and then a more descriptive paragraph. I wanted to keep this section simple and clean as there is plenty of information that follows.  
+### *Home page paragraph*
+This is where I introduce the JDR company with a short paragraph: "At Jordans Dorset Ryvita, we’re all about helping people around the world live healthier lives whilst minimising our impact on the world around us, and it’s our three brilliant brands that allow us to do this. Be it Jordans Cereals, Dorset Cereals or Ryvita: all three make great tasting, honest real food which we’re really proud of.", followed by an animated image, the company's motto and our social media links.
 
-### *Travel Tips 101*
-This section starts with an H2 heading and is then followed by a series of H4 and P elements, this structure is used to provide clarity of the items within this section and make it easy to understand at a glance. This also allows the users to direct their attention to a particular section they a more interested in. Within the p elements, there are several clickable links for products mentioned, this enables the user to easily navigate their way to recommended products creating a trusting relationship between the author and user.
-There is also an Essentials list of items to pack when travelling, on smaller screens this list appears under the Travel Tips and on larger screens (1440px+) it is alongside it. This list is also available as a downloadable document so that users can print this list to use when packing. 
+### *Explore JDR Page*
+This page starts with another paragraph about our company:"At Jordans Dorset Ryvita, we have a strong heritage of making whole grain foods and working with farmers to protect the countryside. Ever since our brands first came together, we have continued to act on these values. We believe that natural foods that have been lightly processed are generally better for you –they tend to be higher in fibre, vitamins and minerals, and they taste great too! Our Brands have a long-standing commitment to health and sustainability, and we have so much to be proud of.", followed by some beautiful images and videos about our products and the social media links.
 
-### *My Last Trip*
-This section includes the most information on the page and so I wanted to include imagery alongside text. The title is an H2 element that is set underneath a responsive hero image, this is followed by a concise review of Sri Lanka. The review is built using H4 and p elements with icons from FontAwesome. 
-There is then a separate div that contains a far more detailed review of Sri Lanka, this features a map embedded using GoogleMaps and also a read more/read less button. I want users to read this information only if they want to and not have an overwhelming amount of text on their screen. 
-I have then included a Fancybox gallery of images of my trip to Sri Lanka, this uses 2 Fancybox libraries that have been included at the bottom of my HTML code.
+### *Sign up to the JDR Newsletter page*
 
-### *Keep in touch*
-This is a signup form that will allow the user to sign up for La Petite Traveller's newsletter. There is an H2 & H3 providing information regarding the form and an animated arrow guiding the user's attention to the form below. The form uses 3 elements, 2 text inputs and an email input. They are all required therefore all information is necessary to submit the form. The colour pallet used is the same across the site.
 
 ---
 ## Technologies Used 
