@@ -5,23 +5,23 @@
 ![](assets/images/Responsivness.PNG)
 
 I created this page to give the reader a better understanding about my company, Jordans, Dorset and Ryvita and to promote a healthier life style, full in fibre.
-
+---
 This website is made up of the following sections:
 
-1. Home page
-2. Explore page
-3. Sign up page to the JDR Newsletter
-4. Thank you for signing up page
-
+1. Home page;
+2. Explore page;
+3. Sign up page to the JDR Newsletter;
+4. Thank you for signing up page.
+---
 The business goals for this website are:
 
-1. To advise users on how to eat healthy
-2. To inspire users by giving them cooking tips and ideas
-3. To promote my company
+1. -To advise users on how to eat healthy;
+2. -To inspire users by giving them cooking tips and ideas;
+3. -To promote my company.
 
 The user goals of this website are:
-1. As a first-time visitor, I want to easily find useful information & tips about oour food and recipes.
-2. As a first-time user, I want to be able to sign up to directly receive content via a newsletter.
+1. -As a first-time visitor, I want to easily find useful information & tips about oour food and recipes;
+2. -As a first-time user, I want to be able to sign up to directly receive content via a newsletter.
 
 ## UX
 ---
@@ -31,26 +31,24 @@ Considering the core UX principles I first started to think about the strategy f
 
 JDR's target users are:
 * Aged 30+
-* People interested in living a heathier lifestyle
-* People who already living a healthy lifestyle
+* People interested in living a heathier lifestyle;
+* People who already living a healthy lifestyle.
 
 What these users would be looking for:
-* Clear, concise, easy-to-find information
-* Beautiful photos that provide inspiration and make the food look delicious
-* Recommendations for what to eat
+* Clear, concise, easy-to-find information;
+* Beautiful photos that provide inspiration and make the food look delicious;
+* Recommendations for what to eat.
 
-This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with this kind of websites.
-
-It is assumed that most users will be viewing the site on their mobile phones and therefore creating something responsive is integral to the design.
+This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with this kind of websites. It is assumed that most users will be viewing the site on their mobile phones and therefore creating something responsive is integral to the design.
 
 ### **Scope**
 
 In order to achieve the desired user & business goals, the following features will be included in this release:
 
-- Header and menu bar, to navigate to various sections of the page
-- Gallery of images and videos with some of our delicious products
-- Newsletter sign up form
-- Links to affiliate social media pages
+- Header and menu bar, to navigate to various sections of the page;
+- Gallery of images and videos with some of our delicious products;
+- Newsletter sign up form;
+- Links to affiliate social media pages.
 
 ### **Structure** 
 
@@ -71,7 +69,7 @@ I chose a colour palette based around green & white as these colours remind me o
 This is a fully responsive website that was designed for all devices like laptops, desktops, tablets and mobile phone. 
 
 ### *Navbar*
-The navbar is placed on the middle of the header and it turns into a dropbox for smaller screen sizes
+The navbar is placed on the middle of the header and it turns into a dropbox for smaller screen sizes.
 
 ### *Home page paragraph*
 This is where I introduce the JDR company with a short paragraph: "At Jordans Dorset Ryvita, we’re all about helping people around the world live healthier lives whilst minimising our impact on the world around us, and it’s our three brilliant brands that allow us to do this. Be it Jordans Cereals, Dorset Cereals or Ryvita: all three make great tasting, honest real food which we’re really proud of.", followed by an animated image, the company's motto and our social media links.
