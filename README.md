@@ -80,7 +80,7 @@ This is where I introduce the JDR company with a short paragraph: "At Jordans Do
 This page starts with another paragraph about our company:"At Jordans Dorset Ryvita, we have a strong heritage of making whole grain foods and working with farmers to protect the countryside. Ever since our brands first came together, we have continued to act on these values. We believe that natural foods that have been lightly processed are generally better for you –they tend to be higher in fibre, vitamins and minerals, and they taste great too! Our Brands have a long-standing commitment to health and sustainability, and we have so much to be proud of.", followed by some beautiful images and videos about our products and the social media links.
 
 ### *Sign up to the JDR Newsletter page*
-
+This page is about signing up to our JDR Newsletters which will redirect the user to another "Thank you for signing up page".
 
 ---
 ## Technologies Used 
@@ -91,12 +91,8 @@ I have used several technologies that have enabled this design to work:
     - Used as the basic building block for the project and to structure the content.
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
     - Used to style all the web content across the project. 
-- [JavaScript](https://www.javascript.com/)
-    - Used for the responsive navbar, form, scroll down arrow and read more/read less button.
-- [Google Fonts](https://fonts.google.com/)
-    - Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie
 - [Font Awesome](https://fontawesome.com/)
-    - Used to obtain the social media icons used in the footer and the icons in La Petite Review.
+    - Used to obtain the social media icons used in the footer.
 - [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
     - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
 - [GitHub](https://github.com/)
@@ -105,32 +101,10 @@ I have used several technologies that have enabled this design to work:
     - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 - [Gitpod](https://www.gitpod.io/)
     - Used as the development environment.
-- [Balsamiq](https://balsamiq.com/)
-    - Used to create the wireframes for the project.
-- [AutoPrefixer](https://autoprefixer.github.io/)
-    - Used to parse my CSS and ass vendor prefixes.
-- [Grammarly](https://www.grammarly.com/)
-    - Used to fix the thousands of grammar errors across the project.
-- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
-    - Used to detect overflow of elements, which allowed me to quickly debug any issues.
-- [Coloors](https://coolors.co/)
-    - Used to create a colour palette for the design.
-- [Fancybox](https://fancyapps.com/fancybox/3/)
-    - Used to format my Sri Lanka photo gallery.
-- [Favicon.io](https://favicon.io/)
-    - Used to create favicon's for my website
-- [Tiny.png](https://tinypng.com/)
-    - Allowed me to compress my images so that the page would load faster.
-- [Color Contrast Accessibility Validator](https://color.a11y.com/)
-    - Allowed me to test the colour contrast of my webpage.
 - [W3C Markup Validation Service](https://validator.w3.org/) 
     - Used to validate all HTML code written and used in this webpage.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
-- [Freeformatter CSS Beautify](https://www.freeformatter.com/css-beautifier.html)
-    - Used to accurately format my CSS code.
-- [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html)
-    - Used to accurately format my HTML code.
 - [AmIResponsive](http://ami.responsivedesign.is/)
     - Used to generate repsonsive image used in README file.
 
