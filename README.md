@@ -155,8 +155,7 @@ The following websites/articles were used for research and guidance:
 
 - [Responsive Navbar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 
-- [Sign up form](https://www.youtube.com/watch?v=n6sv__UBwIA)
-    - I used this code as the basis of my form but changed the styling. 
+- [Sign up form](https://www.youtube.com/watch?v=n6sv__UBwIA), I used this code as the basis of my form but changed the styling. 
 
 - Most of the images and social media links I got from my company which can also be found now online.
 
