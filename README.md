@@ -15,13 +15,13 @@ This website is made up of the following sections:
 ---
 The business goals for this website are:
 
-1. -To advise users on how to eat healthy;
-2. -To inspire users by giving them cooking tips and ideas;
-3. -To promote my company.
+1. To advise users on how to eat healthy;
+2. To inspire users by giving them cooking tips and ideas;
+3. To promote my company.
 
 The user goals of this website are:
-1. -As a first-time visitor, I want to easily find useful information & tips about oour food and recipes;
-2. -As a first-time user, I want to be able to sign up to directly receive content via a newsletter.
+1. As a first-time visitor, I want to easily find useful information & tips about oour food and recipes;
+2. As a first-time user, I want to be able to sign up to directly receive content via a newsletter.
 
 ## UX
 ---
