@@ -89,6 +89,20 @@ This page is about signing up to our JDR Newsletters which will redirect the use
 ![](assets/images/signup.PNG)
 ![](assets/images/thanks.PNG)
 
+### *Social media links*
+The links to our social media links can be found on all pages.
+![](assets/images/social.png)
+
+---
+### *Testing*
+I used The W3C CSS and The W3C Markup Validation Service:
+
+![](assets/images/W3CExplore.PNG)
+![](assets/images/W3CHome.PNG)
+![](assets/images/W3CSignUp.PNG)
+![](assets/images/W3CThanks.PNG)
+![](assets/images/cssValidation.PNG)
+
 ---
 ## Technologies Used 
 
