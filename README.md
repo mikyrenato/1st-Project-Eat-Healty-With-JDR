@@ -94,7 +94,7 @@ The links to our social media links can be found on all pages.
 ![](assets/images/social.png)
 
 ---
-### *Testing*
+## Testing
 I used The W3C CSS and The W3C Markup Validation Service:
 
 ![](assets/images/W3CExplore.PNG)
