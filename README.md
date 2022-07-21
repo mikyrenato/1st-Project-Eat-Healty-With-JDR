@@ -170,7 +170,6 @@ Cloning your repository will allow you to download a local version of the reposi
 ---
 ## Credits
 
-I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS.
 
 The following websites/articles were used for research and guidance:
 
