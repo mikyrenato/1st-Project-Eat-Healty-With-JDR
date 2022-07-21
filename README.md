@@ -66,7 +66,9 @@ I chose a colour palette based around green & white as these colours remind me o
 
 ## **Features**
 
-This is a fully responsive website that was designed for all devices like laptops, desktops, tablets and mobile phone. 
+This is a fully responsive website that was designed for all devices like laptops, desktops, tablets and mobile phone.
+
+![](assets/images/Responsivness.PNG)
 
 ### *Navbar*
 The navbar is placed on the middle of the header and it turns into a dropbox for smaller screen sizes.
