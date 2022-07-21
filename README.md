@@ -72,6 +72,8 @@ This is a fully responsive website that was designed for all devices like laptop
 
 ### *Navbar*
 The navbar is placed on the middle of the header and it turns into a dropbox for smaller screen sizes.
+![](assets/images/nav1.png)
+![](assets/images/nav2.png)
 
 ### *Home page paragraph*
 This is where I introduce the JDR company with a short paragraph: "At Jordans Dorset Ryvita, we’re all about helping people around the world live healthier lives whilst minimising our impact on the world around us, and it’s our three brilliant brands that allow us to do this. Be it Jordans Cereals, Dorset Cereals or Ryvita: all three make great tasting, honest real food which we’re really proud of.", followed by an animated image, the company's motto and our social media links.
@@ -79,8 +81,13 @@ This is where I introduce the JDR company with a short paragraph: "At Jordans Do
 ### *Explore JDR Page*
 This page starts with another paragraph about our company:"At Jordans Dorset Ryvita, we have a strong heritage of making whole grain foods and working with farmers to protect the countryside. Ever since our brands first came together, we have continued to act on these values. We believe that natural foods that have been lightly processed are generally better for you –they tend to be higher in fibre, vitamins and minerals, and they taste great too! Our Brands have a long-standing commitment to health and sustainability, and we have so much to be proud of.", followed by some beautiful images and videos about our products and the social media links.
 
+![](assets/images/explore.PNG)
+
 ### *Sign up to the JDR Newsletter page*
 This page is about signing up to our JDR Newsletters which will redirect the user to another "Thank you for signing up page".
+
+![](assets/images/signup.PNG)
+![](assets/images/thanks.PNG)
 
 ---
 ## Technologies Used 
